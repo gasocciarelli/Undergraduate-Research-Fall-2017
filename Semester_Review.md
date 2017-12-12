@@ -1,1 +1,5 @@
+Undergraduate Research Review: Fall 2017
 
+As I think about everything I have looked over these last few months, I feel I am becoming more familiar and comfortable with database commands. The beginning of this semester started with a continuation of what I learned last semester. Previously, I was studying the installation of PostgreSQL on Ubuntu through a command line situation, without a GUI. This semester, the instructions continued off of that. I set up Ubuntu on a Virtual Machine on my own computer, compared to a YSU computer last year. Once the Virtual Machine was set up, Ubuntu was installed and was running smoothly. I did not have it set up very elaborate, as it was only used to install PostgreSQL. Unlike last semester, I also had to install pgAdmin onto Ubuntu as well. 
+
+The goal with using pgAdmin was to have some sort of actual screen and window based on a prodgram that would run PostgreSQL instead of the regular command line. I had to make sure that I was installing the proper items and that they would link with each other correctly. 
